@@ -1,0 +1,1 @@
+Entering npm run start into the terminal will open up a page for you providing you have already ran npm install to download the necessary node files !
